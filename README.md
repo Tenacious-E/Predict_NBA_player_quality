@@ -1,2 +1,2 @@
-# Predict_NBA_player_quality
+# Predicting NBA All-Stars
 Predict whether a new NBA player will be an All-Star.
